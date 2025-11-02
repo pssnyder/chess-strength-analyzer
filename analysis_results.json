@@ -1,0 +1,166 @@
+{
+  "analysis_info": {
+    "player_name": "v7p3r",
+    "total_games_parsed": 956,
+    "player_games_found": 50,
+    "games_analyzed": 49,
+    "analysis_date": "2025-11-01T22:51:56.912001",
+    "quick_analysis": false
+  },
+  "performance_metrics": {
+    "overall_performance": {
+      "total_games": 49,
+      "wins": 22,
+      "losses": 27,
+      "draws": 0,
+      "win_rate": "44.9%",
+      "current_rating": 1184,
+      "rating_change": 680
+    },
+    "move_quality": {
+      "total_moves_analyzed": 1534,
+      "average_accuracy": "80.6%",
+      "average_centipawn_loss": "62.6",
+      "blunder_rate": "6.5%",
+      "mistake_rate": "8.1%",
+      "inaccuracy_rate": "8.3%"
+    },
+    "time_management": {
+      "average_move_time": "7.1s"
+    },
+    "opening_performance": {
+      "Unknown: Unknown Opening": {
+        "games": 47,
+        "win_rate": "44.7%",
+        "average_accuracy": "87.4%"
+      }
+    },
+    "performance_by_time_control": {
+      "Blitz": {
+        "games": 28,
+        "win_rate": "35.7%",
+        "average_accuracy": "84.2%"
+      },
+      "Rapid": {
+        "games": 7,
+        "win_rate": "42.9%",
+        "average_accuracy": "83.6%"
+      },
+      "Correspondence": {
+        "games": 5,
+        "win_rate": "100.0%",
+        "average_accuracy": "62.6%"
+      },
+      "Other": {
+        "games": 9,
+        "win_rate": "44.4%",
+        "average_accuracy": "77.3%"
+      }
+    },
+    "performance_by_rating": {
+      "Under 1200": {
+        "games": 42,
+        "win_rate": "42.9%",
+        "average_accuracy": "80.7%"
+      },
+      "1200-1399": {
+        "games": 2,
+        "win_rate": "50.0%",
+        "average_accuracy": "71.0%"
+      },
+      "1400-1599": {
+        "games": 3,
+        "win_rate": "66.7%",
+        "average_accuracy": "83.7%"
+      },
+      "1600-1799": {
+        "games": 1,
+        "win_rate": "0.0%",
+        "average_accuracy": "94.2%"
+      }
+    },
+    "recent_form": {
+      "games": 20,
+      "wins": 8,
+      "win_rate": 0.4,
+      "avg_accuracy": 81.20410788684335,
+      "avg_blunders_per_game": 1.65,
+      "trend": "improving"
+    },
+    "strengths": [
+      "Strong opening play (87.2% accuracy)"
+    ],
+    "improvement_areas": [
+      "High blunder rate"
+    ]
+  },
+  "actionable_insights": {
+    "tonight_strategy": {
+      "recommended_time_controls": [
+        "Rapid (Win rate: 42.9%)",
+        "Correspondence (Win rate: 100.0%)",
+        "Other (Win rate: 44.4%)"
+      ],
+      "opening_focus": [
+        "Stick to familiar openings",
+        "Focus on solid development"
+      ],
+      "strategic_reminders": [
+        "Slow down - you're playing too fast"
+      ],
+      "avoid_patterns": [
+        "Avoid tactical complications when tired"
+      ]
+    },
+    "training_recommendations": [
+      {
+        "category": "Opening",
+        "priority": 3,
+        "title": "Expand Your Best Opening",
+        "description": "You perform well in Unknown: Unknown Opening... (Win rate: 44.7%). Deepen your knowledge.",
+        "actions": [
+          "Study 5-10 master games in this opening",
+          "Learn the main theoretical lines and typical plans",
+          "Practice this opening in your next 10 games",
+          "Understand the typical pawn structures and piece play"
+        ],
+        "expected_impact": "Medium",
+        "time_investment": "2-3 hours total study"
+      }
+    ],
+    "quick_wins": [
+      "Before making any forcing move (check, capture, threat), count to 3 and double-check",
+      "Slow down! Aim for at least 10 seconds per move in rapid games",
+      "Play your best opening more often: Unknown: Unknown Opening...",
+      "Focus on Correspondence time controls where you perform best"
+    ],
+    "long_term_goals": [
+      "Reach 1400 rating by improving tactical awareness and reducing blunders",
+      "Reduce blunder rate below 5% through consistent tactical training",
+      "Develop a solid opening repertoire with 2-3 systems for each color",
+      "Study 100 annotated master games over the next 6 months"
+    ],
+    "recurring_mistakes": [
+      "Tactical mistakes in middlegame - improve pattern recognition",
+      "Endgame conversion errors - study basic endgames"
+    ],
+    "successful_patterns": [
+      "You play very accurately when you take your time - continue this approach",
+      "Strong performance in ? - continue developing this opening",
+      "You avoid blunders well in most games - maintain this careful approach"
+    ],
+    "optimal_conditions": {
+      "time_control": "Correspondence (Win rate: 100.0%)",
+      "opponent_rating": "1400-1599 (Win rate: 66.7%)",
+      "recent_trend": "improving"
+    }
+  },
+  "recent_games_summary": {
+    "games_count": 10,
+    "wins": 5,
+    "win_rate": "50.0%",
+    "average_accuracy": "76.2%",
+    "average_blunders_per_game": "2.4",
+    "trend": "improving"
+  }
+}

@@ -1,0 +1,39 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.01.02"]
+[Round "?"]
+[White "v7p3r"]
+[Black "pat314"]
+[Result "1/2-1/2"]
+[ECO "C44"]
+[WhiteElo "407"]
+[BlackElo "468"]
+[TimeControl "300+5"]
+[EndTime "21:17:53 PST"]
+[Termination "Game drawn by stalemate"]
+
+1. e4 {[%timestamp 1]} 1... e5 {[%timestamp 10]} 2. Nf3 {[%timestamp 52]} 2...
+Nc6 {[%timestamp 72]} 3. d4 {[%timestamp 78]} 3... f6 {[%timestamp 15]} 4. d5
+{[%timestamp 138]} 4... Nb4 {[%timestamp 58]} 5. Bc4 {[%timestamp 246]} 5... c6
+{[%timestamp 35]} 6. Nc3 {[%timestamp 56]} 6... cxd5 {[%timestamp 15]} 7. Nxd5
+{[%timestamp 91]} 7... Nc6 {[%timestamp 59]} 8. Bb5 {[%timestamp 122]} 8... Na5
+{[%timestamp 42]} 9. c4 {[%timestamp 148]} 9... Bc5 {[%timestamp 31]} 10. b4
+{[%timestamp 155]} 10... Bd6 {[%timestamp 55]} 11. c5 {[%timestamp 106]} 11...
+Bf8 {[%timestamp 57]} 12. O-O {[%timestamp 39]} 12... g6 {[%timestamp 20]} 13.
+Be3 {[%timestamp 437]} 13... f5 {[%timestamp 22]} 14. exf5 {[%timestamp 149]}
+14... gxf5 {[%timestamp 25]} 15. Nxe5 {[%timestamp 123]} 15... a6 {[%timestamp
+143]} 16. Bc4 {[%timestamp 421]} 16... d6 {[%timestamp 387]} 17. cxd6
+{[%timestamp 168]} 17... Qxd6 {[%timestamp 29]} 18. bxa5 {[%timestamp 276]}
+18... Qxe5 {[%timestamp 81]} 19. f4 {[%timestamp 132]} 19... Qe6 {[%timestamp
+46]} 20. Nc7+ {[%timestamp 137]} 20... Ke7 {[%timestamp 194]} 21. Bxe6
+{[%timestamp 15]} 21... Kf6 {[%timestamp 41]} 22. Nxa8 {[%timestamp 60]} 22...
+Bxe6 {[%timestamp 27]} 23. Qd4+ {[%timestamp 412]} 23... Kg6 {[%timestamp 39]}
+24. Qxh8 {[%timestamp 58]} 24... Bg7 {[%timestamp 43]} 25. Bd4 {[%timestamp
+393]} 25... Bxh8 {[%timestamp 44]} 26. Bxh8 {[%timestamp 15]} 26... Nh6
+{[%timestamp 56]} 27. Rae1 {[%timestamp 41]} 27... b5 {[%timestamp 9]} 28. Rxe6+
+{[%timestamp 43]} 28... Kh5 {[%timestamp 23]} 29. Rxa6 {[%timestamp 34]} 29...
+Ng4 {[%timestamp 30]} 30. Bf6 {[%timestamp 174]} 30... Nxf6 {[%timestamp 136]}
+31. Rxf6 {[%timestamp 19]} 31... Kh4 {[%timestamp 57]} 32. Rh6+ {[%timestamp
+29]} 32... Kg4 {[%timestamp 46]} 33. h3+ {[%timestamp 25]} 33... Kg3
+{[%timestamp 211]} 34. a6 {[%timestamp 116]} 34... b4 {[%timestamp 73]} 35. Nc7
+{[%timestamp 16]} 35... b3 {[%timestamp 8]} 36. axb3 {[%timestamp 16]} 1/2-1/2

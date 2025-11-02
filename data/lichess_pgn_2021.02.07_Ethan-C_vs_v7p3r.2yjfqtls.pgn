@@ -1,0 +1,22 @@
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/2yjfqtls"]
+[Date "2021.02.07"]
+[White "Ethan-C"]
+[Black "v7p3r"]
+[Result "0-1"]
+[UTCDate "2021.02.07"]
+[UTCTime "17:06:47"]
+[WhiteElo "1042"]
+[BlackElo "1030"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+17"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e3 { [%clk 0:10:00] } { A00 Van't Kruijs Opening } 1... c6 { [%clk 0:10:00] } 2. d4 { [%clk 0:09:57] } 2... d5 { [%clk 0:10:03] } 3. c3 { [%clk 0:10:00] } 3... e6 { [%clk 0:10:03] } 4. Nd2 { [%clk 0:09:37] } 4... Bd6 { [%clk 0:10:04] } 5. g3 { [%clk 0:09:31] } 5... Nf6 { [%clk 0:10:07] } 6. Ngf3 { [%clk 0:09:30] } 6... O-O { [%clk 0:10:08] } 7. Bd3 { [%clk 0:09:18] } 7... Nbd7 { [%clk 0:10:08] } 8. O-O { [%clk 0:09:19] } 8... Re8 { [%clk 0:09:47] } 9. Re1 { [%clk 0:09:21] } 9... e5 { [%clk 0:09:32] } 10. dxe5 { [%clk 0:09:21] } 10... Nxe5 { [%clk 0:09:33] } 11. Nxe5 { [%clk 0:09:23] } 11... Bxe5 { [%clk 0:09:32] } 12. b4 { [%clk 0:09:02] } 12... b5 { [%clk 0:09:01] } 13. Nf3 { [%clk 0:08:23] } 13... Bg4 { [%clk 0:08:32] } 14. Kg2 { [%clk 0:08:14] } 14... a5 { [%clk 0:08:06] } 15. Rb1 { [%clk 0:08:06] } 15... a4 { [%clk 0:07:55] } 16. h3 { [%clk 0:07:55] } 16... Bh5 { [%clk 0:07:10] } 17. Qc2 { [%clk 0:06:38] } 17... a3 { [%clk 0:06:07] } 18. g4 { [%clk 0:06:22] } 18... Nxg4 { [%clk 0:05:42] } 19. hxg4 { [%clk 0:06:10] } 19... Bxg4 { [%clk 0:05:47] } 20. Nxe5 { [%clk 0:06:06] } 20... Rxe5 { [%clk 0:05:29] } 21. Rh1 { [%clk 0:05:43] } 21... g6 { [%clk 0:04:57] } 22. Bd2 { [%clk 0:05:21] } 22... Bf5 { [%clk 0:04:47] } 23. Rbg1 { [%clk 0:05:01] } 23... Kf8 { [%clk 0:04:35] } 24. Rh2 { [%clk 0:05:01] } 24... Qd7 { [%clk 0:04:14] } 25. Rxh7 { [%clk 0:04:49] } 25... Ke7 { [%clk 0:03:37] } 26. Rgh1 { [%clk 0:04:12] } 26... Bxd3 { [%clk 0:03:12] } 27. Qxd3 { [%clk 0:04:10] } 27... Rh5 { [%clk 0:03:14] } 28. R7xh5 { [%clk 0:04:00] } 28... gxh5 { [%clk 0:03:16] } 29. Rxh5 { [%clk 0:03:59] } 29... Rg8+ { [%clk 0:03:03] } 30. Kf3 { [%clk 0:03:47] } 30... Qg4# { [%clk 0:02:52] } { Black wins by checkmate. } 0-1
+
+
